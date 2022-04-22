@@ -1,0 +1,14 @@
+com/suitmediatest/MainActivity.java
+ com.suitmediatest.MainActivity
+com/suitmediatest/ReactNativeFlipper.java
+ com.suitmediatest.ReactNativeFlipper
+ com.suitmediatest.ReactNativeFlipper$1
+ com.suitmediatest.ReactNativeFlipper$2
+ com.suitmediatest.ReactNativeFlipper$2$1
+com/suitmediatest/MainApplication.java
+ com.suitmediatest.MainApplication
+ com.suitmediatest.MainApplication$1
+com/suitmediatest/BuildConfig.java
+ com.suitmediatest.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

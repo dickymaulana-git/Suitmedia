@@ -1,0 +1,6 @@
+module Pods_SuitmediaTest_SuitmediaTestTests {
+  umbrella header "Pods-SuitmediaTest-SuitmediaTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
